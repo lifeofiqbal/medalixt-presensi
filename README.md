@@ -1,3 +1,10 @@
+<img width="228" height="179" alt="image" src="https://github.com/user-attachments/assets/23937e46-c15f-4e1c-bc63-f84ae996d679" />
+<img width="350" height="145" alt="image" src="https://github.com/user-attachments/assets/03519997-c2e8-4abf-86bd-25cc19815057" />
+<img width="272" height="83" alt="image" src="https://github.com/user-attachments/assets/e1de01d8-fc6f-4ad8-9d02-cf70cc1743c9" />
+
+
+
+
 # medalixt_presensi
 
 Resource presensi & playtime tracker untuk **QBX Core** (FiveM).
